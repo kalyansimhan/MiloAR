@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">MILO AR</string>
+    
+    <string name="Choose_Location">Choose Location</string> 
+	<string-array name="locations_array">
+  		<item>San Jose, California</item> 
+  		<item>Washington</item> 
+  		<item>Chicago, Illinois</item> 
+  		<item>New York</item> 
+  	</string-array>
+</resources>
